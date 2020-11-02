@@ -29,6 +29,7 @@ int main()
 			s += a[y][x];
 		}
 
+
 		assert(s==sum[y]);
 	}
 
